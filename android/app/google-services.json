@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872072308475",
+    "project_id": "auth-phone-7268b",
+    "storage_bucket": "auth-phone-7268b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872072308475:android:8eb31229f46ea4faa4f25e",
+        "android_client_info": {
+          "package_name": "com.example.uber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872072308475-u5jsf9tv0tb730fils4aeskrhqss4odh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyckszQThFsrkVSlKft8cdmjSFCfk15E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872072308475-u5jsf9tv0tb730fils4aeskrhqss4odh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
